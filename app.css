@@ -1,0 +1,111 @@
+/* * {
+  transition: all 1s ease;
+} */
+
+html {
+  background-color: #000000;
+  color: #6c757d;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.userInput {
+  margin: 0 5% !important;
+}
+
+input {
+  background-color: #161625 !important;
+  color: #6c757d !important;
+}
+
+input::placeholder {
+  color: #6c757d !important;
+}
+
+.heading {
+  margin: 30px 0;
+  text-transform: none;
+  color: wheat;
+}
+
+.result {
+  min-height: 60vh;
+}
+
+.definition,
+pre {
+  background-color: #161625;
+  color: #6c757d;
+}
+
+.error {
+  color: red;
+}
+
+#version {
+  color: #ffdd57;
+}
+
+.response {
+  margin: 0 10px;
+  background-color: #8ea8c3;
+}
+
+hr {
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: #41414e;
+}
+
+.creator {
+  color: #161625;
+  margin-bottom: 30px;
+}
+
+.box.synonym {
+  border: 12px solid;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  /* background-color: white; */
+  color: white;
+}
+
+footer p {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+#git_icon {
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin: auto;
+  padding: 10px;
+  font-size: 40px;
+}
+
+/* }
+.fab {
+  margin: auto;
+} */
+
+#text1 {
+  font-size: 30px;
+}
+
+#search1 {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+#search2 {
+  font-size: 25px;
+  color: wheat;
+}
