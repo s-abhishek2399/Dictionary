@@ -9,3 +9,6 @@ Go ahead and clear your doubts.
 
 Enter a word and it returns you the meaning and synonym of it !  
 
+
+
+![2021-02-08 (2)](https://user-images.githubusercontent.com/72956186/107236039-51a82e80-6a4b-11eb-81f6-2b7d6b6e7e97.png)
