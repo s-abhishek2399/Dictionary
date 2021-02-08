@@ -5,3 +5,7 @@ Go ahead and clear your doubts.
 
  
 ![2021-02-08 (1)](https://user-images.githubusercontent.com/72956186/107234795-09d4d780-6a4a-11eb-99e3-1d7df969082e.png)
+
+
+Enter a word and it returns you the meaning and synonym of it !  
+
